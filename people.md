@@ -1,7 +1,7 @@
 ---
 layout: default
 title: People
-permalink: /people/
+permalink: /action_um/people/
 ---
 
 # People
