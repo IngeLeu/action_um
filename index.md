@@ -18,3 +18,10 @@ ACTION Lab
 inge.leunissen@maastrichtuniversity.nl
 Department of Cognitive Neuroscience  
 Maastricht University
+
+<div class="button-row">
+  <a class="button" href="/research/">Research</a>
+  <a class="button" href="/people/">People</a>
+  <a class="button" href="/publications/">Publications</a>
+  <a class="button" href="/contact/">Contact</a>
+</div>
